@@ -102,6 +102,7 @@ font-size: 2rem;
           border: 2px solid rgb(255,69,0);
           border-radius: 5px;
           width:200px;
+          height:350px;
 
           }
 
@@ -272,8 +273,9 @@ margin-right: auto;
                margin:auto;
              border: 2px solid rgb(255,69,0);
              border-radius: 5px;
-             width:150px;
-             height: 200px;
+             width:130px;
+             height:130px;
+
 
 
 
@@ -350,7 +352,7 @@ margin-right: auto;
              border-radius: 10%;
              top:5rem;
 
-   
+
              }
 
              .fa-instagram {
